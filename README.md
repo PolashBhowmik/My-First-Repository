@@ -1,4 +1,4 @@
 # My-First-Repository
-Author-POLASH  BHOWMIK
+Author-POLASH  BHOWMIKs
 <br>
 For practice Only
